@@ -1,15 +1,14 @@
 # VPharm
 Loading Docs for scope
 
-
-
-As discussed, we have a prototype pharma VR app built for Oculus Rift and quest: 
-We plan to make some improvements to demonstrate some projects through January and are looking for a freelancer or reasonably priced partner to work with on this .
-
 Current prototype show reel. https://www.youtube.com/watch?v=2SCXNjTSLZ8&feature=youtu.be
 
 
 Activities we want to complete: 
+
+## Preface
+
+- The Model needs a moderate amount of work, seeking expertise in this to resolve.
 
 ## A 
  
@@ -84,5 +83,6 @@ Solvent composition
 
 2. Instrument Online icon (can be in any from, s long it is written Instrument Online) -click to open #3 and setup for the analyses and pump flow    3. Instrument Control Diagram-is now open 
  
- I have a more comprehensive Software flow if time permits, however this may prove difficult to get done with our short time lines.
+I have a more comprehensive Software flow if time permits, however this may prove difficult to get done with our short time lines.
  
+
